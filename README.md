@@ -1,2 +1,2 @@
-# alma-consentida-web
-Página web informativa diseñada para proporcionar información sobre asesorías de lactancia materna.
+# Alma Consentida
+Informative website designed to provide information on breastfeeding counseling.
